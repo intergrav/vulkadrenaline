@@ -1,0 +1,13 @@
+name = "Vulkadrenaline"
+author = "UltraStorm"
+version = "1.0.0+1.19.2.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fb36f82c837ed7439e1837a00611e3468c9495a6e97babc207192648e442136b"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"

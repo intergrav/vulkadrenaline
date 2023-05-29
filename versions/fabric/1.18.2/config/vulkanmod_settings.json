@@ -1,0 +1,5 @@
+{
+  "guiOptimizations": true,
+  "advCulling": 1,
+  "indirectDraw": true
+}
