@@ -23,7 +23,7 @@ Vulkadrenaline is an experimental branch of Adrenaline that replaces Sodium with
 
 ## 🔥 Performance
 
-On my machine, Vulkadrenaline has lower framerates than Adrenaline in most cases. I am on an NVIDIA GTX 1080 TI, AMD Ryzen 5 3600, with 2 GB ram allocated to each instance. I am using Fedora Minimal + GNOME running on X11. **Keep in mind that this can heavily vary on some systems - I advise you test yourself if you are curious which runs better. You may score higher with Vulkadrenaline on your end.** These were done with Vulkadrenaline 1.0.0 and Adrenaline 1.13.0, both running on 1.19.4.
+On my machine, Vulkadrenaline has lower framerates than Adrenaline in most cases. I am on an NVIDIA GTX 1080 Ti, AMD Ryzen 5 3600, with 2 GB ram allocated to each instance. I am using Fedora Minimal + GNOME running on X11. **Keep in mind that this can heavily vary on some systems - I advise you test yourself if you are curious which runs better. You may score higher with Vulkadrenaline on your end.** These were done with Vulkadrenaline 1.0.0 and Adrenaline 1.13.0, both running on 1.19.4.
 
 |  | Adrenaline | Vulkadrenaline |
 |---|---|---|
