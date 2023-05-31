@@ -16,7 +16,7 @@
   <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for Gitpod"></a>
 </div>
 
-> **Here be dragons!**
+> **Warning**
 > Vulkadrenaline is a *testing-only* branch of Adrenaline and should **not** be used in production. VulkanMod is currently in an alpha stage. Expect issues.
 
 Vulkadrenaline is an experimental branch of Adrenaline that replaces Sodium with VulkanMod, with tested builds. Mod compatibility is not guaranteed, and incompatible mods are removed. For more information about Adrenaline, see the [Modrinth page](https://modrinth.com/modpack/adrenaline).
