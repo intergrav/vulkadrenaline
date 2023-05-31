@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/intergrav/vulkadrenaline">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/vulkadrenaline/vulkadrenaline_text_256h.png" alt="Logo" height="90">
+    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/vulkadrenaline/vulkadrenaline_text_256h.png" alt="Logo" height="40">
   </a>
   <br />
   <br />
